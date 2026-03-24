@@ -1,5 +1,7 @@
 package com.study.java_springboot.java;
 
+import com.study.java_springboot.java.abstract_test.Child;
+import com.study.java_springboot.java.abstract_test.Parent;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;

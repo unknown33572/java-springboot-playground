@@ -1,5 +1,8 @@
 package com.study.java_springboot.java;
 
+import com.study.java_springboot.java.abstract_test.Child;
+import com.study.java_springboot.java.abstract_test.Parent;
+
 public class JavaTest {
   public static void main(String[] args) {
 

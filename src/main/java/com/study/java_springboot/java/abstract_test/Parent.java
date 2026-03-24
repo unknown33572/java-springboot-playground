@@ -1,4 +1,4 @@
-package com.study.java_springboot.java;
+package com.study.java_springboot.java.abstract_test;
 
 public class Parent {
   public void method1() {
